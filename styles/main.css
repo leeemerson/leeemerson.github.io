@@ -1,0 +1,20 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin-left: 10px;
+
+}
+a:focus, a:hover {
+    font-size: italic;
+    color:rgb(145, 74, 86);
+}
+header h1 {
+    font-size: 175%;
+    color: maroon;
+    text-indent: 30px;
+}
+header h2 {
+    font-size: 130%;
+    color: maroon;
+    text-indent: 30px;
+}
